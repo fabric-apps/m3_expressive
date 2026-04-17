@@ -1,8 +1,8 @@
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
-import 'package:material_shapes/material_shapes.dart';
 
+import '../material_shapes.dart';
 import 'shape_morph_painter.dart';
 
 /// A Material 3 Expressive pull-to-refresh indicator.
@@ -217,7 +217,7 @@ class _M3RefreshIndicatorState extends State<M3RefreshIndicator>
   /// Tracks the finger during drag, stays at indicatorSize/2 + 8 during loading.
   double _indicatorTopOffset() {
     final size = widget.indicatorSize;
-    final restingTop = 8.0; // gap from top edge when fully shown
+    const restingTop = 8.0; // gap from top edge when fully shown
     switch (_phase) {
       case _Phase.idle:
         return -(size + 8); // fully hidden above

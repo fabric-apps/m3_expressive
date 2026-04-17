@@ -13,9 +13,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  material_shapes:
-    git:
-      url: https://github.com/ksokolovskyi/material_shapes.git
   vector_math: ^2.1.4
 
 dev_dependencies:

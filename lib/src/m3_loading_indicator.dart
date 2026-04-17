@@ -1,8 +1,8 @@
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
-import 'package:material_shapes/material_shapes.dart';
 
+import '../material_shapes.dart';
 import 'shape_morph_painter.dart';
 
 /// A Material 3 Expressive loading indicator.
