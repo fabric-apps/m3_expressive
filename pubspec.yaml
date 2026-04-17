@@ -1,7 +1,6 @@
 name: m3_expressive
 description: Material 3 Expressive components for Flutter. Morphing shapes, animated indicators, swipe-to-dismiss list items, and container transforms faithful to the Android 16 design spec.
 version: 1.0.0
-publish_to: none
 homepage: https://github.com/fabric-apps/m3_expressive
 repository: https://github.com/fabric-apps/m3_expressive
 issue_tracker: https://github.com/fabric-apps/m3_expressive/issues
