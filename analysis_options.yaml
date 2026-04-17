@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - prefer_const_constructors
+    - prefer_const_declarations
+    - use_super_parameters
+    - sized_box_for_whitespace
+    - avoid_unnecessary_containers
