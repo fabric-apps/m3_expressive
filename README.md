@@ -7,36 +7,15 @@ shape work that Flutter's built-in widgets do not yet cover. This package fills
 that gap with five production-ready components that follow the M3 Expressive
 spec as closely as possible.
 
-> Record a short screen capture of each component in motion and replace the
-> placeholder lines below with the embedded GIFs before publishing.
-
-| Component | Preview |
-|---|---|
-| M3LoadingIndicator | 
-
 https://github.com/user-attachments/assets/c6f8a013-7280-4289-93a3-8429ee3e31b1
 
- |
-| M3RefreshIndicator | 
-
-https://github.com/user-attachments/assets/0de34bf5-52b1-4c34-a87b-d2e29ee32c99
-
- |
-| M3DismissibleListItem | 
+https://github.com/user-attachments/assets/0de34bf5-52b1-4c34-a87b-d2e29ee32c99 
 
 https://github.com/user-attachments/assets/f3274caa-fda7-48ff-814a-ad02a20396a1
 
- |
-| M3UndoPill | 
-
-https://github.com/user-attachments/assets/4dd2a67e-359a-4551-a4e1-b03724563b83
-
- |
-| DraggableContainerButton | 
+https://github.com/user-attachments/assets/4dd2a67e-359a-4551-a4e1-b03724563b83 
 
 https://github.com/user-attachments/assets/b3e36f01-9606-4535-bcb7-540a6bd0fb52
-
- |
 
 ---
 
