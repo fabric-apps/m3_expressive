@@ -12,11 +12,31 @@ spec as closely as possible.
 
 | Component | Preview |
 |---|---|
-| M3LoadingIndicator | *(add GIF)* |
-| M3RefreshIndicator | *(add GIF)* |
-| M3DismissibleListItem | *(add GIF)* |
-| M3UndoPill | *(add GIF)* |
-| DraggableContainerButton | *(add GIF)* |
+| M3LoadingIndicator | 
+
+https://github.com/user-attachments/assets/c6f8a013-7280-4289-93a3-8429ee3e31b1
+
+ |
+| M3RefreshIndicator | 
+
+https://github.com/user-attachments/assets/0de34bf5-52b1-4c34-a87b-d2e29ee32c99
+
+ |
+| M3DismissibleListItem | 
+
+https://github.com/user-attachments/assets/f3274caa-fda7-48ff-814a-ad02a20396a1
+
+ |
+| M3UndoPill | 
+
+https://github.com/user-attachments/assets/4dd2a67e-359a-4551-a4e1-b03724563b83
+
+ |
+| DraggableContainerButton | 
+
+https://github.com/user-attachments/assets/b3e36f01-9606-4535-bcb7-540a6bd0fb52
+
+ |
 
 ---
 
